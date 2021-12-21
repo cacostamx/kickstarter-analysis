@@ -1,4 +1,4 @@
 # An Analysis of Kickstarter Campaigns
 Analysis on Kickstarter data for Louise
 
-![Theatre Outcomes by Launch Date](/Outcomes Launch Date - Only Theatre.png)
+![Theatre Outcomes by Launch Date](/Outcomes%20Launch%20Date%20-%20Only%20Theatre.png)
