@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Analysis on Kickstarter data
+# An Analysis of Kickstarter Campaigns
+Analysis on Kickstarter data for Louise
