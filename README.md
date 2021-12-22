@@ -32,8 +32,8 @@ Also, if we sort the data by year we find that 2014 to 2016 are the years with m
 | 2015  | 304        | 202    | 12       | 518   |
 | 2016  | 249        | 130    | 12       | 391   |
 | 2017  | 19         | 9      | 3        | 31    |
-| Total | 839        | 493    | 37       | 1369  |
 |-------|------------|--------|----------|-------|
+| Total | 839        | 493    | 37       | 1369  |
 
 It is also to be noted, that the campaigns from 2010 to 2012, although they were few, all were successful, and for the coming years successful campaigns accounted for a mean of 61%.
 
